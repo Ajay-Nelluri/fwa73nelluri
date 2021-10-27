@@ -12,5 +12,18 @@
     "http-errors": "^1.8.0",
     "morgan": "^1.10.0",
     "pug": "^3.0.2"
-  }
+  },
+  "description": "Main created from git",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ajay-Nelluri/fwa73nelluri.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ajay-Nelluri/fwa73nelluri/issues"
+  },
+  "homepage": "https://github.com/Ajay-Nelluri/fwa73nelluri#readme"
 }
